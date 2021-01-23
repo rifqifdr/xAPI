@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Just Testing Some Course</name>
+      <description lang="en-US">Berbisnis bukanlah hal yang mudah, ada perbedaan sangat signifikan antara &amp;quot;bisnis&amp;quot; dan &amp;quot;dagang&amp;quot;. Seperti yang kalian sering dengar, sebelum memulai usaha/bisnis kalian, kalian akan diarahkan untuk membentuk konsep bisnis. Apa sih konsep bisnis itu? konsep bisnis adalah sebuah gagasan yang konkrit dalam mewujudkan suatu usaha dengan merujuk pada nilai-nilai usaha , tujuan, dan target pasar. Bagaimana cara mengkonsep sebuah bisnis? Untuk lebih lengkapnya, yuk kita mulai belajar bareng dengan klik kelas dibawah ini!&amp;nbsp;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/4Ll7XPBHbT7AqmjqQXdhESCPkVTQGKDn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introduction/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/PiMxqzoy0whbA2MNv-TEUqh9fVRa5J6e" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Mindset for Entrepreneur/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/QEddqyLJky4g0yQOcHClvsjWE0H3v-Kx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Bisnis vs Dagang/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/Z5yRIOMM6c4awh6xBPjYFhshLP0XnsPa" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Diet and Exercise/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/CxWLUpMnkcSpBn6_D_x1awEKNM27kz8P" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Healthy Eating and Regular Exercise/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/siMKZPuY4a2n2IVPLSjzskuRAwI1HXcB" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Creating Healthy Meals/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/Q2KuZpD5D-Q1Sng0c-FKvQs925th3D1n" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Creating an Exercise Program/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/geo-BZU5xq0W_EDIPIl8JIYZ4n6BGSEl" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Managing Stress/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/UnukKfe8v7fD9Uxg93IfL357y1g6vhOK" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">How Stress Affects You/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/kXQUPvbLW3L3v2m6UA5lpNImhC5SrsTG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Coping with Stress/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/dKLgoHmeA3a7zkDZGTPuZ_0b2xDZa9Fr" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/qbM6TvFld_YWUlKklGIameA-L1UweJid" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Wellness Quiz/quiz</name>
+      <description lang="en-US">Now that you’ve explored some aspects of physical, mental, and emotional wellness, it’s time to take a short quiz testing your Wellness IQ. Let’s see what you’ve learned so far!</description>
+    </activity>
+            
+    <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/qbM6TvFld_YWUlKklGIameA-L1UweJid/1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Myth or Fact - Skipping meals helps you lose weight.</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_1_1</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_1_1</id>
+        <description lang="en-US">Myth</description>
+      </component>
+            <component>
+        <id>choice_1_2</id>
+        <description lang="en-US">Fact</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/qbM6TvFld_YWUlKklGIameA-L1UweJid/2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">How many times per week should you exercise?</name>
+      <description lang="en-US"></description>
+      <interactionType>choice</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>choice_2_3</correctResponsePattern>
+            </correctResponsePatterns>
+            <choices>
+            <component>
+        <id>choice_2_1</id>
+        <description lang="en-US">1-2 times per week</description>
+      </component>
+            <component>
+        <id>choice_2_2</id>
+        <description lang="en-US">3-4 times per week</description>
+      </component>
+            <component>
+        <id>choice_2_3</id>
+        <description lang="en-US">4-5 times per week</description>
+      </component>
+            <component>
+        <id>choice_2_4</id>
+        <description lang="en-US">Every day</description>
+      </component>
+            </choices>
+          </activity>
+        
+    <activity id="http://0X7v-YTaNHUacxGwhiLhMCMOI_bKQG8P_rise/qbM6TvFld_YWUlKklGIameA-L1UweJid/3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+      <name lang="en-US">Match each behavior on the left to its corresponding impact on the right.</name>
+      <description lang="en-US"></description>
+      <interactionType>matching</interactionType>
+      <correctResponsePatterns>
+            <correctResponsePattern>source_1[.]target_1</correctResponsePattern>
+            <correctResponsePattern>source_2[.]target_2</correctResponsePattern>
+            <correctResponsePattern>source_3[.]target_3</correctResponsePattern>
+            </correctResponsePatterns>
+            <source>
+            <component>
+        <id>source_1</id>
+        <description lang="en-US">Chronic stress></description>
+      </component>
+            <component>
+        <id>source_2</id>
+        <description lang="en-US">Lack of restful sleep></description>
+      </component>
+            <component>
+        <id>source_3</id>
+        <description lang="en-US">No time with friends></description>
+      </component>
+            </source>
+      <target>
+                  <component>
+            <id>target_1</id>
+            <description lang="en-US">Increased blood pressure</description>
+          </component>
+                  <component>
+            <id>target_2</id>
+            <description lang="en-US">Irritability</description>
+          </component>
+                  <component>
+            <id>target_3</id>
+            <description lang="en-US">Feelings of isolation</description>
+          </component>
+              </target>
+          </activity>
+            </activities>
+</tincan>
